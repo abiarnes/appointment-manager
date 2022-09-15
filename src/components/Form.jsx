@@ -58,11 +58,9 @@ const Form = ({ patients, setPatients, patientItem, setPatientItem }) => {
       
     } else {
       // New entry
-      console.log('new');
       patientObject.id = generateId();
       setPatients([...patients, patientObject]);
     }
-
 
     // Reset form
     setName('');

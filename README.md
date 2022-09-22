@@ -1,4 +1,4 @@
-# appointment-manager
+# Patient monitoring vet
 
 Appointment manager with ReactJS and TailwindCss.
 
